@@ -12,4 +12,7 @@ export class PatientslistComponent implements OnInit {
   ngOnInit() {
   }
 
+
+
+
 }
